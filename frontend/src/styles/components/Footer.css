@@ -1,0 +1,16 @@
+.footer-container {
+  background: linear-gradient(135deg, #f4f8ff 0%, #f0f5ff 100%);
+  border-top: 1px solid rgba(108, 142, 255, 0.1);
+  box-shadow: 0 -2px 10px rgba(108, 142, 255, 0.05);
+}
+
+.footer-text {
+  color: #8c98a4;
+  font-size: 0.9rem;
+}
+
+.social-icon-link {
+  color: #6c8eff;
+  transition: all 0.3s ease;
+  font-size: 1.2rem;
+} 

@@ -1,0 +1,19 @@
+.logs-container {
+  padding: 2rem 0;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.logs-heading {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+.logs-description {
+  color: #8c98a4;
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  max-width: 800px;
+} 

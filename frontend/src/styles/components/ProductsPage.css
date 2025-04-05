@@ -1,0 +1,181 @@
+.products-heading {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+.filter-card {
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.filter-heading {
+  color: #6c8eff;
+  font-weight: 600;
+}
+
+.filter-label {
+  color: #6c8eff;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.filter-select {
+  border-color: #e2e8f0;
+  border-radius: 8px;
+  box-shadow: none;
+  color: #333;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.search-input-group {
+  display: flex;
+}
+
+.search-input {
+  border-color: #e2e8f0;
+  border-radius: 8px 0 0 8px;
+  box-shadow: none;
+  color: #333;
+  padding: 0.75rem 1rem;
+}
+
+.search-icon-container {
+  background-color: white;
+  border: 1px solid #e2e8f0;
+  border-left: none;
+  border-radius: 0 8px 8px 0;
+  padding: 0.5rem 1rem;
+}
+
+.search-icon {
+  color: #6c8eff;
+}
+
+.checkbox-field {
+  margin-bottom: 1rem;
+}
+
+.filter-button {
+  background-color: #6c8eff;
+  border: none;
+  color: white;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
+}
+
+.clear-button {
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+  color: #64748b;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
+}
+
+.content-card {
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  padding: 1.5rem;
+}
+
+.content-heading {
+  color: #6c8eff;
+  font-weight: 600;
+}
+
+.spinner {
+  color: #6c8eff;
+}
+
+.loading-text {
+  color: #8c98a4;
+}
+
+.empty-icon {
+  color: #8c98a4;
+  margin-bottom: 1rem;
+  opacity: 0.7;
+}
+
+.empty-heading {
+  color: #6c8eff;
+  margin-bottom: 0.75rem;
+}
+
+.empty-description {
+  color: #8c98a4;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.table-container {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.products-table {
+  margin-bottom: 0;
+}
+
+.table-header {
+  background-color: rgba(108, 142, 255, 0.05);
+}
+
+.th-cell {
+  font-weight: 600;
+  color: #6c8eff;
+  padding: 1rem;
+}
+
+.product-name-cell {
+  font-weight: 500;
+  padding: 1rem;
+}
+
+.product-sku-cell {
+  padding: 1rem;
+}
+
+.sku-icon {
+  color: #8c98a4;
+}
+
+.sku-text {
+  color: #8c98a4;
+}
+
+.price-cell {
+  padding: 1rem;
+}
+
+.supplier-cell {
+  padding: 1rem;
+}
+
+.actions-cell {
+  padding: 1rem;
+}
+
+.edit-button {
+  background-color: #6c8eff;
+  border: none;
+  color: white;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.remove-button {
+  background-color: #e74c3c;
+  border: none;
+  color: white;
+  font-weight: 500;
+  transition: all 0.3s ease;
+} 
