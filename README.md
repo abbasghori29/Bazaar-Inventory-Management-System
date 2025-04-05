@@ -175,8 +175,6 @@ The system follows a modern client-server architecture with clear separation of 
   - Settings tab (admin users only)
 - `/login` & `/register`: Authentication pages
 
-
-
 ## Backend Structure
 
 ## Data Models
@@ -189,6 +187,10 @@ The system follows a modern client-server architecture with clear separation of 
 - **Stock**: Inventory levels per product per store
 - **StockMovement**: Records of inventory changes
 - **AuditLog**: System-wide activity logging
+
+### Entity Relationship Diagram
+![Entity Relationship Diagram](./screenshots/erd.png)
+*Database schema showing relationships between core entities*
 
 ## API Endpoints
 
@@ -269,7 +271,6 @@ The stock tracking system ensures real-time accuracy:
 2. Dashboard displays current inventory status with color-coded alerts
 3. Low stock and out-of-stock items are visually highlighted
 
-
 ## Deployment Instructions
 
 ### Prerequisites
@@ -337,7 +338,6 @@ npm start
 - **Caching Strategy**: Frequently accessed data cached in Redis
 - **Query Optimization**: Efficient database queries with select_related
 - **Pagination**: API endpoints paginated for large datasets
-
 
 ## Assumptions
 
