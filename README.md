@@ -98,9 +98,11 @@ The Bazaar Inventory Tracking System is a scalable inventory management solution
 - **Activity Tracking**: Comprehensive user action logging
 
 ![Login Page](./screenshots/loginPage.PNG)
+
 *Login interface for user authentication*
 
 ![Register Page](./screenshots/registerPage.PNG)
+
 *User registration interface with role selection*
 
 ### Audit and Logging
